@@ -1,0 +1,1 @@
+# test_squad_test_tasks
